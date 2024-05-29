@@ -1,6 +1,6 @@
 This is an edit.
 editing again.
-3rd edit.conflicting
+3rd edit
 4th edit
 final edit, hopefully.
 welp, that wasn't the last edit.
